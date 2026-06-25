@@ -1,2 +1,3 @@
-Line added by teammate
 CONFLICT: my version
+CONFLICT: teammate version
+
