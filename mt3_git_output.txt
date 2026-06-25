@@ -1,0 +1,45 @@
+=== IT332 MT3 Git Lab Submission ===
+Student:
+Catliaj
+
+=== git remote -v ===
+origin	https://github.com/Catliaj/it332-git-lab.git (fetch)
+origin	https://github.com/Catliaj/it332-git-lab.git (push)
+
+=== Full commit log ===
+* 3793f4f Reapply "Add feature (squashed)"
+* ad67f06 Revert "Add feature (squashed)"
+| * 9ae0c77 WIP on (no branch): a5ecf71 Add feature (squashed)
+|/| 
+| * 9eeef18 index on (no branch): a5ecf71 Add feature (squashed)
+|/  
+* a5ecf71 Add feature (squashed)
+| * 6908925 Merge Fixed
+|/| 
+| * fdd8f2c CONFLICT: teammate version
+* | 067bad3 My conflicting edit
+|/  
+* 0a1a375 Teammate edits README
+
+=== Final README.md ===
+CONFLICT: my version
+CONFLICT: teammate version
+
+
+=== Final feature.txt ===
+feature line 1
+feature line 2
+feature line 3
+
+
+=== git status ===
+On branch main
+Your branch and 'origin/main' have diverged,
+and have 3 and 2 different commits each, respectively.
+  (use "git pull" if you want to integrate the remote branch with yours)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	mt3_git_output.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
